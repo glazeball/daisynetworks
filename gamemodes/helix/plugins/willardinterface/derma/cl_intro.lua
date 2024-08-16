@@ -116,7 +116,7 @@ function PANEL:Init()
 	end
 
 	self.firstText = self.backgroundPanel:Add("DLabel")
-	self.firstText:SetText("Willard Networks HL2RP")
+	self.firstText:SetText("Daisy Networks HL2RP")
 	self.firstText:SetFont("WNSmallerMenuTitleNoBold")
 	self.firstText:SizeToContents()
 	self.firstText:SetAlpha(0)
