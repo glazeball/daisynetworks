@@ -10,6 +10,7 @@
 
 
 local CREDITS = {
+	{"Daisy", "76561198067055373", {"creditLeadDeveloper", "creditManager"}},
 	{"Alex Grist", "76561197979205163", {"creditLeadDeveloper", "creditManager"}},
 	{"Igor Radovanovic", "76561197990111113", {"creditLeadDeveloper", "creditUIDesigner"}},
 	{"Jaydawg", "76561197970371430", {"creditTester"}}
