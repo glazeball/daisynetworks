@@ -10,6 +10,7 @@
 
 
 local CREDITS = {
+	{"Daisy", "76561198067055373", {"Fork Developer", "Owner" }},
 	{"Atle", "76561198002319944", {"Project Manager", "Concept Art" }},
 	{"Votton", "76561198052727595", {"Development Manager", "Digital Archon"}},
 	{"M!NT", "76561198201768255", {"Lead Developer", "Lua Archmage"}},
